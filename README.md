@@ -1,6 +1,6 @@
 # Taco in Unity !
 
-[Tutorial](https://youtu.be/LKhGqKYOmbo)
+You will find the assets that I used in this [Tutorial](https://youtu.be/LKhGqKYOmbo) but not a full demo
 
 [My Material Pack](https://www.assetstore.unity3d.com/#!/content/136692)
 
